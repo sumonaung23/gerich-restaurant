@@ -29,32 +29,32 @@
 }
 
 @media screen and (min-width: 2000px) {
-    .app__newsletter-input input {
+    .app__newsLetter-input input {
         font-size: 2rem;
     }
 }
 
 @media screen and (max-width: 990px) {
-    .app__newsletter-input {
+    .app__newsLetter-input {
         flex-direction: column;
         width: 100%;
     }
 
-    .app__newsletter-input input {
+    .app__newsLetter-input input {
         margin: 0 0 2rem 0;
         width: 100%;
     }
 }
 
 @media screen and (max-width: 650px) {
-    .app__newsletter {
+    .app__newsLetter {
         padding: 2rem 0;
         border: none;
     }
 }
 
 @media screen and (max-width: 300px) {
-    .app__newsletter-heading h1 {
+    .app__newsLetter-heading h1 {
         font-size: 32px;
         line-height: 50px;
     }
